@@ -1,0 +1,23 @@
+
+public class Range {
+  public static void main(String[] args) {
+		
+	  byte byteMinValue = Byte.MIN_VALUE;
+	  byte byteMaxValue = Byte.MAX_VALUE;
+	  System.out.println("Byte Minimum Value :" + byteMinValue);
+	  System.out.println("Byte Maximum Value :" + byteMaxValue);
+	  
+	  short shortMinValue = Short.MIN_VALUE;
+	  short shortMaxValue = Short.MAX_VALUE;
+	  System.out.println("Short Minimum Value :" + shortMinValue);
+	  System.out.println("Short Maximum Value :" + shortMaxValue);
+	  
+	  int intMinValue = Integer.MIN_VALUE;
+	  int intMaxValue = Integer.MAX_VALUE;
+	  System.out.println("Integer Minimum Value :" + intMinValue);
+	  System.out.println("Integer Maximum Value :" + intMaxValue);
+	  
+	  
+	  
+  }
+}
