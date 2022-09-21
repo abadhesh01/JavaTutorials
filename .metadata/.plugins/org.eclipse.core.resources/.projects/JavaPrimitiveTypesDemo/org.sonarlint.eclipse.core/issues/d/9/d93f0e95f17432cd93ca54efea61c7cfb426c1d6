@@ -1,0 +1,48 @@
+
+k
+java:S1481"3Remove this unused "sampleIntValue" local variable.(²š²àıÿÿÿÿ8¾ãĞóµ0H®RMINORZ
+CODE_SMELL
+g
+java:S1481"4Remove this unused "sampleIntValue2" local variable.(şÎ†¥8°åóµ0HÄRMINORZ
+CODE_SMELL
+E
+java:S1220""Move this file to a named package.HaRMINORZ
+CODE_SMELL
+g
+java:S1481"4Remove this unused "sampleLongValue" local variable.(å•Ãç8¾ãĞóµ0H°RMINORZ
+CODE_SMELL
+|
+java:S1854
+"DRemove this useless assignment to local variable "sampleByetValue2".(Èäáøÿÿÿÿ8¾ãĞóµ0HªRMAJORZ
+CODE_SMELL
+h
+java:S1481"5Remove this unused "sampleLongValue2" local variable.(ø‹×Ÿ8¾ãĞóµ0H²RMINORZ
+CODE_SMELL
+x
+java:S1854"ERemove this useless assignment to local variable "samapleByteValue3".(Ì…ñ¡8°åóµ0HÁRMAJORZ
+CODE_SMELL
+l
+java:S1481"4Remove this unused "sampleIntValue3" local variable.(Û‘ ûÿÿÿÿ8¿óúóµ0HÏRMINORZ
+CODE_SMELL
+v
+java:S1854"CRemove this useless assignment to local variable "sampleIntValue2".(şÎ†¥8°åóµ0HÀRMAJORZ
+CODE_SMELL
+i
+java:S1481"6Remove this unused "samapleByteValue3" local variable.(Ì…ñ¡8°åóµ0HÂRMINORZ
+CODE_SMELL
+{
+java:S1854"CRemove this useless assignment to local variable "sampleIntValue3".(Û‘ ûÿÿÿÿ8¿óúóµ0HÎRMAJORZ
+CODE_SMELL
+w
+java:S1854"DRemove this useless assignment to local variable "sampleLongValue2".(ø‹×Ÿ8¾ãĞóµ0H«RMAJORZ
+CODE_SMELL
+v
+java:S1854"CRemove this useless assignment to local variable "sampleLongValue".(å•Ãç8¾ãĞóµ0H¬RMAJORZ
+CODE_SMELL
+m
+java:S1481
+"5Remove this unused "sampleByetValue2" local variable.(Èäáøÿÿÿÿ8¾ãĞóµ0H´RMINORZ
+CODE_SMELL
+z
+java:S1854"BRemove this useless assignment to local variable "sampleIntValue".(²š²àıÿÿÿÿ8¾ãĞóµ0H­RMAJORZ
+CODE_SMELL

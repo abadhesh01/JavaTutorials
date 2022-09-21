@@ -47,10 +47,10 @@ public class PrimitiveTypesExample {
 			 
 			 System.out.println("\n");
 			 
-			 char sampleCharacterValue = 'A';
 			 char sampleUnicodeValue = '\u0041';
+			 char sampleCharacterValue = 'A';
 			 char sampleASCIIValue = 65;
-			 System.out.println("[char sampleUnicodeValue = '\\u0041'] : " + sampleUnicodeValue);
+             System.out.println("[char sampleUnicodeValue = '\\u0041'] : " + sampleUnicodeValue);
 			 System.out.println("[char sampleUnCharacterValue = 'A'] : " + sampleCharacterValue);
 			 System.out.println("[char sampleASCIIValue = 65] : " + sampleASCIIValue);
 		 }

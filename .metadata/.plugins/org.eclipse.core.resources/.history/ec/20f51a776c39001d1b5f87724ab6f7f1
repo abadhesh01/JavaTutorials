@@ -1,0 +1,17 @@
+
+public class RoughWork {
+  public static void main(String[] args) 
+  {
+	int sampleIntValue = 100;
+	long sampleLongValue = 120;
+	long sampleLongValue2 = 650L;
+	
+	byte sampleByteValue = 97;
+	byte sampleByetValue2 = sampleByteValue;
+	
+	
+	
+	
+	System.out.println("Execution successful.");
+  }
+}

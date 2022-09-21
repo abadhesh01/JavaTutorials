@@ -1,0 +1,48 @@
+
+public class RoughWork {
+  public static void main(String[] args) 
+  {
+	 // Implicit casting
+     byte sampleByteValue = 120;
+     short sampleShortValue = sampleByteValue;
+     int sampleIntValue = sampleShortValue;
+     long sampleLongValue = sampleIntValue;
+     float sampleFloatValue = sampleLongValue;
+     double sampleDoubleValue = sampleFloatValue;
+     
+     // Explicit casting
+     double sampleDoubleValue2 = 133.75;
+     float sampleFloatValue2 = (float) sampleDoubleValue2;
+     long sampleLongValue2 = (long) sampleFloatValue2;
+     int sampleIntValue2 = (int) sampleLongValue2;
+     short sampleShortValue2 = (short) sampleIntValue2;
+     byte sampleByteValue2 = (byte) sampleShortValue2;
+     
+     
+     System.out.println("[sampleByteValue] : " + sampleByteValue);
+     System.out.println("[sampleShortValue] : " + sampleShortValue);
+     System.out.println("[sampleIntValue] : " + sampleIntValue);
+     System.out.println("[sampleLongValue] : " + sampleLongValue);
+     System.out.println("[sampleFloatValue] : " + sampleFloatValue);
+     System.out.println("[sampleDoubleValue] : " + sampleDoubleValue);
+     
+     System.out.println("\n");
+     
+     System.out.println("[sampleByteValue2] : " + sampleByteValue2);
+     System.out.println("[sampleShortValue2] : " + sampleShortValue2);
+     System.out.println("[sampleIntValue2] : " + sampleIntValue2);
+     System.out.println("[sampleLongValue2] : " + sampleLongValue2);
+     System.out.println("[sampleFloatValue2] : " + sampleFloatValue2);
+     System.out.println("[sampleDoubleValue2] : " + sampleDoubleValue2);
+     
+     System.out.println("\n");
+     
+     char []charArray = {'S','a','m','p','l','e',' ','s','t','r','i','n','g'};
+     
+     String sampleString = new String(charArray);
+     System.out.println("sampleString : \"" + sampleString + "\"; hashCode :" + sampleString.hashCode());
+     
+     String sampleString2 = "This is java datatypes tutorial.";
+     System.out.println("sampleString2 : \"" + sampleString2 + "\"; hashCode :" + sampleString2.hashCode());
+  }
+}

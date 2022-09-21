@@ -1,0 +1,26 @@
+
+public class TypeCasting {
+ public static void main(String[] args) {
+   
+	 /*
+	  * Type Casting:
+	  * -------------                            Explicit Casting/ Downcasting (Manual casting)   
+	  *         |                               /\       
+	  *  byte   |                               |
+	  *  short  |                               |
+	  *  int    |                               |
+	  *  long   |                               |
+	  *  float  |                               |
+	  *  double |                               |
+	  *         \/                              |
+	  *         Implicit Casting/
+	  *         Upcasting
+	  *         (Automatic casting)
+	  */
+	 
+	 // Implicit casting 
+	 short sampleShortValue = 122;
+	 
+	 
+ }	
+}

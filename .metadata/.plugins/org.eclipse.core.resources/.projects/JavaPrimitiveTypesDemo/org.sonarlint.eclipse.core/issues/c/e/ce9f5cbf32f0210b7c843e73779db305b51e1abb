@@ -1,0 +1,16 @@
+
+v
+java:S1854"DRemove this useless assignment to local variable "sampleByteValue2".(Ë®Ü&8²ú°óµ0HŸRMAJORZ
+CODE_SMELL
+}
+java:S1854"ERemove this useless assignment to local variable "sampleDoubleValue".(ÈÖ®Éøÿÿÿÿ8ƒ›óµ0H™RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HŠRMINORZ
+CODE_SMELL
+n
+java:S1481"6Remove this unused "sampleDoubleValue" local variable.(ÈÖ®Éøÿÿÿÿ8ƒ›óµ0HšRMINORZ
+CODE_SMELL
+g
+java:S1481"5Remove this unused "sampleByteValue2" local variable.(Ë®Ü&8²ú°óµ0H RMINORZ
+CODE_SMELL

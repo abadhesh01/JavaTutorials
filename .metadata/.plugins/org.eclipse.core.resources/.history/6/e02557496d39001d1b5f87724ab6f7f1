@@ -1,0 +1,19 @@
+
+public class RoughWork {
+  public static void main(String[] args) 
+  {
+	int sampleIntValue = 100;
+	long sampleLongValue = 120;
+	long sampleLongValue2 = 650L;
+	
+	byte sampleByteValue = 97;
+	byte sampleByetValue2 = sampleByteValue;
+	byte samapleByteValue3 = (byte)(sampleByteValue / 2); // Expression conatining whole number only will return 'int'. 
+	
+	int sampleIntValue2 = (byte) 88;
+	
+	
+	
+	System.out.println("Execution successful.");
+  }
+}
