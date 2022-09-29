@@ -1,21 +1,21 @@
 
-X
-java:S2129" Remove this "String" constructor(Ÿ†™Åıÿÿÿÿ8€€îµ0HàRMAJORZ
-CODE_SMELL
-m
-java:S4973"<Strings and Boxed types should be compared using "equals()".(ŸŠÌõûÿÿÿÿ8€€îµ0HÌRMAJORZBUG
-h
-java:S4973"<Strings and Boxed types should be compared using "equals()".(Üî‚Ö8€€îµ0HÑRMAJORZBUG
-g
-java:S4973"<Strings and Boxed types should be compared using "equals()".(öÊ±R8€€îµ0HÖRMAJORZBUG
-ƒ
-java:S1192	"NDefine a constant instead of duplicating this literal "Sample string" 4 times.(¼¿úY8€€îµ0HÇRCRITICALZ
-CODE_SMELL
 F
-java:S1220""Move this file to a named package.HÅRMINORZ
+java:S1220""Move this file to a named package.H§RMINORZ
 CODE_SMELL
-S
-java:S2129" Remove this "String" constructor(ñõº8€€îµ0HáRMAJORZ
+ƒ
+java:S1192	"NDefine a constant instead of duplicating this literal "Sample string" 4 times.(¼¿úY8€€îµ0H¨RCRITICALZ
 CODE_SMELL
 m
-java:S4973"<Strings and Boxed types should be compared using "equals()".(Å÷’ˆÿÿÿÿÿ8€€îµ0HÛRMAJORZBUG
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Å÷’ˆÿÿÿÿÿ8€€îµ0H­RMAJORZBUG
+X
+java:S2129" Remove this "String" constructor(Ÿ†™Åıÿÿÿÿ8€€îµ0H²RMAJORZ
+CODE_SMELL
+g
+java:S4973"<Strings and Boxed types should be compared using "equals()".(öÊ±R8€€îµ0H³RMAJORZBUG
+h
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Üî‚Ö8€€îµ0H¸RMAJORZBUG
+m
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ŸŠÌõûÿÿÿÿ8€€îµ0H½RMAJORZBUG
+S
+java:S2129" Remove this "String" constructor(ñõº8€€îµ0HÂRMAJORZ
+CODE_SMELL
