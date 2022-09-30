@@ -2,6 +2,20 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System.Logger"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="p1.Main"/>
+    <fullyQualifiedTypeName name="javax.swing.DefaultBoundedRangeModel"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="p1.A"/>
+    <fullyQualifiedTypeName name="p1.B"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="p2.B"/>
+    <fullyQualifiedTypeName name="p2.A"/>
+    <fullyQualifiedTypeName name="p1.Child"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="p2.Child"/>
+    <fullyQualifiedTypeName name="p2.Parent"/>
+    <fullyQualifiedTypeName name="p3.Main"/>
+    <fullyQualifiedTypeName name="p5.Child"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
